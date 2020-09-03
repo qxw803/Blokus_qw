@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+
+	<string name="help">Help</string>
+	<string name="preferences">Settings</string>
+
+	<string name="back">Back</string>
+	<string name="cancel">Cancel</string>
+
+	<string name="newnew">New</string>
+	<string name="delete">Delete</string>
+	<string name="undo">Undo</string>
+
+	<string name="twice_to_exit">Press twice to exit</string>
+
+	<!-- app -->
+	
+	<string name="flip">Flip piece</string>
+	<string name="i_pass">I pass my turn</string>
+	
+	
+	<string name="quit">Quit the game?</string>
+	<string name="social">Social</string>
+	
+		
+	<string name="new_game">New Game</string>
+	<string name="red_ko">Red has no more moves</string>
+	<string name="congratulations">Congratulations, you win with score : </string>
+	<string name="try_next">Try next level.</string>
+	<string name="wins_with_score">wins with score</string>
+	
+	<string name="Red">Player Red</string>
+	<string name="Green">Player Green</string>
+	<string name="Blue">Player Blue</string>
+	<string name="Orange">Player Orange</string>
+
+
+
+
+	<!-- preferences -->
+	<string name="displaySeeds_title">Seeds display</string>
+	<string name="displaySeeds_description">Display a dot where you may place a piece</string>
+
+	<string name="ai_title">Artificial Intelligence</string>
+	<string name="ai_description">Computer plays Green, Blue and Yellow</string>
+
+	<string name="aiLevel_title">Level</string>
+	<string name="aiLevel_dialog">Select level</string>
+
+	<string name="review">Review</string>
+
+
+	<!-- help -->
+	<string name="video_description_1">Click above picture to watch demo on Tencent Video</string>
+
+	<string name="rules_title">Rules of Blokus</string>
+	<string name="rules_text_1">
+		-- 4 players having each 21 pieces and players need to place as many pieces as possible on the board with 20 * 20 squares.
+		\n-- The first piece needs to be placed at the corner of the board.
+		\n-- Every piece after the first should to be placed in contact with the corners of one of your own pieces and never touch any edge of pieces!
+	</string>
+	<string name="rules_text_2">
+		-- The game ends when each user is unable to place a piece.
+		\n-- The score for each user is the sum of the areas of the pieces on the board.The sum of the largest pieces is the victor.
+		\n-- If it is still unclear, you can click the picture below to watch the teaching video via Tencent video website.
+	</string>
+
+
+</resources>
